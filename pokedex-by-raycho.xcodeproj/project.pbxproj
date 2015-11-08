@@ -12,6 +12,7 @@
 		1C02C0371BEF723E0077DA20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C02C0351BEF723E0077DA20 /* Main.storyboard */; };
 		1C02C0391BEF723E0077DA20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C02C0381BEF723E0077DA20 /* Assets.xcassets */; };
 		1C02C03C1BEF723E0077DA20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C02C03A1BEF723E0077DA20 /* LaunchScreen.storyboard */; };
+		1C02C0441BEF7C870077DA20 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 1C02C0431BEF7C870077DA20 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1C02C0381BEF723E0077DA20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C02C03B1BEF723E0077DA20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C02C03D1BEF723E0077DA20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C02C0431BEF7C870077DA20 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		1C02C0301BEF723E0077DA20 /* pokedex-by-raycho */ = {
 			isa = PBXGroup;
 			children = (
+				1C02C0431BEF7C870077DA20 /* pokemon.csv */,
 				1C02C0311BEF723E0077DA20 /* AppDelegate.swift */,
 				1C02C0331BEF723E0077DA20 /* ViewController.swift */,
 				1C02C0351BEF723E0077DA20 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				1C02C03C1BEF723E0077DA20 /* LaunchScreen.storyboard in Resources */,
 				1C02C0391BEF723E0077DA20 /* Assets.xcassets in Resources */,
+				1C02C0441BEF7C870077DA20 /* pokemon.csv in Resources */,
 				1C02C0371BEF723E0077DA20 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
